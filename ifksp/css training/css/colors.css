@@ -1,0 +1,11 @@
+#colorDiv {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    background-color:midnightblue;
+}
+
+html {
+    background-image: url(../img/background.jpg);
+    
+}
